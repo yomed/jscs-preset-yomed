@@ -40,7 +40,7 @@
     "requirePaddingNewLinesAfterUseStrict": true,
     "disallowTrailingWhitespace": true,
     "disallowTrailingComma": true,
-    "disallowMultipleVarDecl": "strict",
+    "disallowMultipleVarDecl": true,
     "requireSpacesInForStatement": true,
     "requireSpaceBetweenArguments": true,
     "requireSemicolons": true,
